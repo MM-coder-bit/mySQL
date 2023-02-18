@@ -1,4 +1,4 @@
-CREATE TABLE tbCliente # Criando uma tabela
+CREATE TABLE tbCliente3 # Criando uma tabela
 (CPF VARCHAR(11),
  NOME VARCHAR (100),
  ENDERECO1 VARCHAR(150),
